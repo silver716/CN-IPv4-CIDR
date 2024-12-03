@@ -2,7 +2,7 @@
 
 China IPv4 CIDR data merged from multiple sources.
 
-Check out this project if you need China IPv6 CIDR data:
+Check out this project if you need China IPv6 CIDR data:  
 https://github.com/gaoyifan/china-operator-ip/blob/ip-lists/china6.txt
 
 ## License
